@@ -15,4 +15,4 @@ Hardware:
 Firmvare:
 - GCC Eclipse project, FreeRTOS, LibopenCM3
 
-#####!!! Использовать только в защищённых сетях !!!
+##### !!! Использовать только в защищённых сетях !!!
